@@ -13,6 +13,16 @@ See also: `docs/ARCHITECTURE.md`, `docs/ER_DIAGRAM.md`, `docs/API.md`,
 `docs/DESIGN_DECISIONS.md`, `docs/DATABASE_DESIGN.md`.
 
 ---
+## Images 
+<img width="956" height="438" alt="Screenshot 2026-07-04 111558" src="https://github.com/user-attachments/assets/e0bad310-3cf7-4f75-9c93-7e657212f9d6" />
+<img width="958" height="417" alt="Screenshot 2026-07-04 111655" src="https://github.com/user-attachments/assets/e7185558-4ec6-4fce-ae9a-20d1e8fc95c6" />
+<img width="959" height="437" alt="Screenshot 2026-07-04 111853" src="https://github.com/user-attachments/assets/f7653071-3b99-4d13-9bbd-7f14c7c9a63e" />
+<img width="959" height="433" alt="Screenshot 2026-07-04 111913" src="https://github.com/user-attachments/assets/4c13e9cb-2cdb-40fa-82f5-a5128df43b8b" />
+<img width="945" height="443" alt="Screenshot 2026-07-04 112020" src="https://github.com/user-attachments/assets/4576d46c-259a-40d2-aa06-261b758fea6c" />
+<img width="476" height="322" alt="Screenshot 2026-07-04 112044" src="https://github.com/user-attachments/assets/4311cd49-db84-4415-a907-6e36a56adc55" />
+<img width="947" height="448" alt="Screenshot 2026-07-04 112325" src="https://github.com/user-attachments/assets/15462c48-2d3c-4362-8410-3d434901ceb3" />
+<img width="953" height="459" alt="Screenshot 2026-07-04 112333" src="https://github.com/user-attachments/assets/64fa2bcb-3a33-4ddf-9c59-53c15e07f9ad" />
+
 
 ## 1. Software to install
 
